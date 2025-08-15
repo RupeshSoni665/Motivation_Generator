@@ -49,7 +49,7 @@ Follow these steps to get the project running locally:
 
 ```bash
 # clone the repository
-git clone [https://github.com/your_username/Daily-Motivation-Generator.git](https://github.com/Aviral-Jain-2004/Motivation_Generator)
+git clone [https://github.com/your_username/Daily-Motivation-Generator.git](https://github.com/RupeshSoni665/Motivation_Generator)
 cd Daily-Motivation-Generator
 
 # Create virtual environment
